@@ -48,8 +48,8 @@ In the data base you can use the drop-downs and select trimesters 1, 2, and 3 of
 
 Within the repository you can find:
 * "housing.ipynb"- Analysis of the housing data. Here I focused on housing conditions and the costs associated with types of housing. The Peace Corps has strict regulations regarding housing.
-* "food_drink"- folder
-  - "Iquitos2023food_beverage.ipyb"- Analysis of food and beverage expenses. Within this analysis of the food and beverage allowance, geographical comparison highlights the discrepancies in living costs amongst locals.
+* "Iquitos2023food_beverage.ipyb"- Analysis of food and beverage expenses. Within this analysis of the food and beverage allowance, geographical comparison highlights the discrepancies in living costs amongst locales.
+* "sort_keys"- folder: to be used with the food and beverage analysis
   - "food_categories.csv"- The survey data had thousands of unformatted entries for different food items. Iteratively, I sorted each entry or item into this csv to structure the categories of food items for further analysis.
   - "ubigeo_codes.csv"- Geogaphic information columns with rows of zip code where other Volunteers are present. This allowed me to filter the data, analyze sample distribution, and append lat and long.
  
