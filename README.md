@@ -33,16 +33,16 @@ In the data base you can use the drop-downs and select trimesters 1, 2, and 3 of
   * In the housing analysis, I utilized descriptive statistics and comparative analysis, leveraging the detailed insights from the ENAHO survey about housing conditions and correlated costs. This approach was particularly beneficial as Peace Corps regulations have specific requirements regarding housing material, security measures, utility access, and more. By analyzing the actual costs associated with these conditions as reported in the ENAHO survey, I was able to provide a more accurate assessment of housing costs compared to remote evaluations by staff in Lima, which lack detailed information about the costs tied to these requirements.
   * The key finding is that upon my arrival, the initial housing stipend of 600/s was inadequate for Response volunteers to secure accommodations that met the safety standards set by Lima. After a subsequent increase in the housing budget to 900/s, it became sufficient given the current housing prices. However, considering the seasonal nature of placements, I advocate for future volunteers to receive additional support to accommodate market availability fluctuations, or for procedures allowing expedited relocation post-arrival to the site.
 
-* **Food and Beverage Expenses Analysis (food_beverage.ipyb)**
+* **Food and Beverage Expenses Analysis (Iquitos2023food_beverage.ipynb)**
   * For the analysis of food and beverage expenses, I employed a detailed methodological approach. This began with the organization of thousands of unstructured entries for various food items into a structured dataset. Following this, I conducted a geographical comparison to underscore the disparities in living costs across different locations. The analysis combined statistical methods with visual data representations, facilitating a comprehensive understanding of the living cost variations. By focusing on the geographic locations of current volunteers, this analysis effectively highlights the inequity in volunteer treatment, illustrating how the purchasing power of a sole in different living environments (communal versus independent | village versus city) impacts volunteer experiences. In the 
 
 ### Repo & Files
 
 Within the repository you can find:
 * "housing.ipynb"- Analysis of the housing data. Here I focused on housing conditions and the costs associated with types of housing. The Peace Corps has strict regulations regarding housing.
-* "food_beverage"- folder
-  - "food_beverage.ipyb"- Analysis of food and beverage expenses. Within this analysis of the food and beverage allowance, geographical comparison highlights the discrepancies in living costs amongst locals.
-  - "sort_keys.csv"- The survey data had thousands of unformatted entries for different food items. Iteratively, I sorted each entry or item into this csv to structure the categories of food items for further analysis.
+* "food_drink"- folder
+  - "Iquitos2023food_beverage.ipyb"- Analysis of food and beverage expenses. Within this analysis of the food and beverage allowance, geographical comparison highlights the discrepancies in living costs amongst locals.
+  - "food_categories.csv"- The survey data had thousands of unformatted entries for different food items. Iteratively, I sorted each entry or item into this csv to structure the categories of food items for further analysis.
   - "ubigeo_codes.csv"- Geogaphic information columns with rows of zip code where other Volunteers are present. This allowed me to filter the data, analyze sample distribution, and append lat and long.
  
 ### Future Work
