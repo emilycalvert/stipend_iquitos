@@ -45,9 +45,10 @@ In the data base you can use the drop-downs and select trimesters 1, 2, and 3 of
   * For the analysis of food and beverage expenses, I employed a detailed methodological approach. This began with the organization of thousands of unstructured entries for various food items into a structured dataset. Following this, I conducted a geographical comparison to underscore the disparities in living costs across different locations. The analysis combined statistical methods with visual data representations, facilitating a comprehensive understanding of the living cost variations. By focusing on the geographic locations of current volunteers, this analysis effectively highlights the inequity in volunteer treatment, illustrating how the purchasing power of a sole in different living environments (communal versus independent | village versus city) impacts volunteer experiences. In the 
 
 ### Repo & Files
+_To interact with the folium maps or interactive plots please open the notebooks in /github.dev or run the code in your local environment.
 
 Within the repository you can find:
-* "housing.ipynb"- Analysis of the housing data. Here I focused on housing conditions and the costs associated with types of housing. The Peace Corps has strict regulations regarding housing.
+* "Iquitos2023housing.ipynb"- Analysis of the housing data. Here I focused on housing conditions and the costs associated with types of housing. The Peace Corps has strict regulations regarding housing.
 * "Iquitos2023food_beverage.ipyb"- Analysis of food and beverage expenses. Within this analysis of the food and beverage allowance, geographical comparison highlights the discrepancies in living costs amongst locales.
 * "sort_keys"- folder: to be used with the food and beverage analysis
   - "food_categories.csv"- The survey data had thousands of unformatted entries for different food items. Iteratively, I sorted each entry or item into this csv to structure the categories of food items for further analysis.
